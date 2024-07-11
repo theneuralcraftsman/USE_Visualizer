@@ -4,3 +4,4 @@ tensorflow_hub==0.12.0
 numpy
 pandas
 plotly
+protobuf==3.20.0
