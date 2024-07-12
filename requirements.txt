@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.26
 tensorflow==2.14
 tensorflow_hub
 numpy
